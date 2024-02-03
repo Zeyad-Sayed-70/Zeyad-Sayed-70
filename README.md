@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-Hello there! 👋 I'm a passionate Front-end Developer based in Egypt. With a keen eye for design and a love for crafting seamless user experiences, I'm dedicated to bringing ideas to life through code.
+Hello there! 👋 I'm a passionate Full Stack Developer based in Egypt. With a keen eye for design and a love for crafting seamless user experiences, I'm dedicated to bringing ideas to life through code.
 
 ## 🛠️ Technologies & Tools
 
